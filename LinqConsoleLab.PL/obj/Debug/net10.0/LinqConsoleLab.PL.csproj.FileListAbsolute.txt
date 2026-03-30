@@ -1,0 +1,14 @@
+E:\qozac\pobrane\Moje_projekty\Projekt\LinqConsoleLab.PL\bin\Debug\net10.0\LinqConsoleLab.PL.exe
+E:\qozac\pobrane\Moje_projekty\Projekt\LinqConsoleLab.PL\bin\Debug\net10.0\LinqConsoleLab.PL.deps.json
+E:\qozac\pobrane\Moje_projekty\Projekt\LinqConsoleLab.PL\bin\Debug\net10.0\LinqConsoleLab.PL.runtimeconfig.json
+E:\qozac\pobrane\Moje_projekty\Projekt\LinqConsoleLab.PL\bin\Debug\net10.0\LinqConsoleLab.PL.dll
+E:\qozac\pobrane\Moje_projekty\Projekt\LinqConsoleLab.PL\bin\Debug\net10.0\LinqConsoleLab.PL.pdb
+E:\qozac\pobrane\Moje_projekty\Projekt\LinqConsoleLab.PL\obj\Debug\net10.0\LinqConsoleLab.PL.GeneratedMSBuildEditorConfig.editorconfig
+E:\qozac\pobrane\Moje_projekty\Projekt\LinqConsoleLab.PL\obj\Debug\net10.0\LinqConsoleLab.PL.AssemblyInfoInputs.cache
+E:\qozac\pobrane\Moje_projekty\Projekt\LinqConsoleLab.PL\obj\Debug\net10.0\LinqConsoleLab.PL.AssemblyInfo.cs
+E:\qozac\pobrane\Moje_projekty\Projekt\LinqConsoleLab.PL\obj\Debug\net10.0\LinqConsoleLab.PL.csproj.CoreCompileInputs.cache
+E:\qozac\pobrane\Moje_projekty\Projekt\LinqConsoleLab.PL\obj\Debug\net10.0\LinqConsoleLab.PL.dll
+E:\qozac\pobrane\Moje_projekty\Projekt\LinqConsoleLab.PL\obj\Debug\net10.0\refint\LinqConsoleLab.PL.dll
+E:\qozac\pobrane\Moje_projekty\Projekt\LinqConsoleLab.PL\obj\Debug\net10.0\LinqConsoleLab.PL.pdb
+E:\qozac\pobrane\Moje_projekty\Projekt\LinqConsoleLab.PL\obj\Debug\net10.0\LinqConsoleLab.PL.genruntimeconfig.cache
+E:\qozac\pobrane\Moje_projekty\Projekt\LinqConsoleLab.PL\obj\Debug\net10.0\ref\LinqConsoleLab.PL.dll
